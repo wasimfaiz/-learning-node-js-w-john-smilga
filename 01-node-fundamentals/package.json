@@ -1,0 +1,21 @@
+{
+  "name": "node-w-john-smilga",
+  "version": "1.0.0",
+  "description": "Learning Node Js using John Smilga's FreeCodeCamp course",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learning",
+    "Node",
+    "Js"
+  ],
+  "author": "Jeyi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
